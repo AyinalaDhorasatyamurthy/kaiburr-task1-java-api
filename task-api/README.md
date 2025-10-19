@@ -269,7 +269,7 @@ task-api/
 
 ---
 
-**Developer**: [Your Name]  
+**Developer**: [Ayinala Dhorasatyamurthy]  
 **Date**: October 19, 2025  
 **Task**: Kaiburr Task 1 - Java Backend and REST API
 

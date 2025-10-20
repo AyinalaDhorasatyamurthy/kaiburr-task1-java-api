@@ -260,9 +260,15 @@ task-api/
 3. **Test the API** using the provided endpoints
 4. **View data** in MongoDB using `mongosh Kaiburr --eval "db.tasks.find()"`
 
+<img width="1422" height="931" alt="image" src="https://github.com/user-attachments/assets/f76b91f0-510f-4b62-a09f-c21437caa4a3" />
 
+<img width="1875" height="793" alt="Screenshot 2025-10-20 095752" src="https://github.com/user-attachments/assets/a0876fee-6754-4861-840c-1279a0e8f160" />
+<img width="1529" height="903" alt="Screenshot 2025-10-19 124107" src="https://github.com/user-attachments/assets/860c571f-f520-46ee-9a13-4dbf1857e4e2" />
+<img width="1494" height="970" alt="Screenshot 2025-10-20 095933" src="https://github.com/user-attachments/assets/b7dd5437-3733-4f0a-9090-4f0556d9755a" />
+<img width="1498" height="965" alt="Screenshot 2025-10-20 100036" src="https://github.com/user-attachments/assets/1dff332e-9c1a-40d8-b42b-a323b09b24ae" />
+<img width="1495" height="957" alt="Screenshot 2025-10-20 100105" src="https://github.com/user-attachments/assets/482d1d4e-5913-4865-a075-feabbbeb6511" />
+<img width="1495" height="963" alt="Screenshot 2025-10-20 100149" src="https://github.com/user-attachments/assets/f0a9452a-c42d-4765-a771-e387e9cc7384" />
 
-![WhatsApp Image 2025-10-20 at 09 58 22_b22d8154](https://github.com/user-attachments/assets/3876c24c-181f-4dd3-974b-38abbf5f0b20)
 
 
 ## 📝 Notes

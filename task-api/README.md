@@ -1,5 +1,5 @@
 # Task 1: Java Backend and REST API
-
+ 
 ## 📋 Project Overview
 
 This project implements a **Spring Boot REST API** for managing "task" objects that represent shell commands. The application provides endpoints for creating, reading, updating, deleting, and executing tasks, with data persistence using **MongoDB**.

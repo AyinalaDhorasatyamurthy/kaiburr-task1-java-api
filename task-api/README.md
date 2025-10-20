@@ -10,6 +10,7 @@ This project implements a **Spring Boot REST API** for managing "task" objects t
 - **Database**: MongoDB with Spring Data MongoDB
 - **Build Tool**: Maven
 - **API Documentation**: RESTful endpoints with JSON responses
+- **Testing**: Postman
 
 ## 📊 Data Models
 
